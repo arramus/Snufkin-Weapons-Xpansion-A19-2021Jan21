@@ -1,0 +1,31 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+Cow Helmet,item_modifiers,mod,,,Cow Helmet Mod,,,,,
+Cow HelmetDesc,item_modifiers,mod,,,"Increases Strength, Damage resistance, Cold and Heat resistance, Fire and Electric Shock resistance, Fortitude, and Agility. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This helmet mod is visible to other players."
+
+Pumpkin Hat,item_modifiers,mod,,,Pumpkin Hat Mod,,,,,
+Pumpkin HatDesc,item_modifiers,mod,,,"Reduces Noise, Increases Damage resistance, Strength, Cold and Heat resistance, Fire and Electric Shock resistance, Fortitude, and Agility. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This hat mod is visible to other players."
+
+Magnet Hat,item_modifiers,mod,,,Magnet Hat Mod,,,,,
+Magnet HatDesc,item_modifiers,mod,,,"Increases Impact bracing when falling from a height, and Strength. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This hat mod is visible to other players."
+
+WagonWheel,item_modifiers,mod,,,Wagon Wheel Mod,,,,,
+WagonWheelDesc,item_modifiers,mod,,,"Increases bartering skill with +20% for sales and -20% for purchases. Inreases Strength and Stamina recovery when running. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This clothing mod is visible to other players."
+
+Rabbit Friend,item_modifiers,mod,,,Rabbit Friend Mod,,,,,
+Rabbit FriendDesc,item_modifiers,mod,,,"Increases Entity damage, Strength, Damage resistance, and Cold and Heat resistance. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This clothing mod is visible to other players. かわいい兎ちゃんでしょう？"
+
+Snake Friend,item_modifiers,mod,,,Snake Friend Mod,,,,,
+Snake FriendDesc,item_modifiers,mod,,,"Increases Impact bracing when falling from a height, and Strength. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This clothing mod is visible to other players."
+
+Vulture Friend,item_modifiers,mod,,,Vulture Friend Mod,,,,,
+Vulture FriendDesc,item_modifiers,mod,,,"Reduces walk and run speed but Increases Jump strength and Jump stamina. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This clothing mod is visible to other players."
+
+Big Backpack,item_modifiers,mod,,,Big Backpack Mod,,,,,
+Big BackpackDesc,item_modifiers,mod,,,"Increases Strength, Damage resistance, and Backpack capacity by +5. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This clothing mod is visible to other players."
+
+Pumpkin Man,item_modifiers,mod,,,Pumpkin Man Mod,,,,,
+Pumpkin ManDesc,item_modifiers,mod,,,"Increases Strength, Damage resistance, and Harvest count by +2. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This hat mod is visible to other players."
+
+SpeakerHat,item_modifiers,mod,,,Speaker Hat Mod,,,,,
+SpeakerHatDesc,item_modifiers,mod,,,"Increases Strength, Damage resistance, Fire and Electric Shock resistance, and resists the effects of Banshee screams, Mantis narcotics, Parasite leaching, and Archon shields. Can be found in hardened chests as a lootable item and installed in the armor headware paint slot. This hat mod is visible to other players."
