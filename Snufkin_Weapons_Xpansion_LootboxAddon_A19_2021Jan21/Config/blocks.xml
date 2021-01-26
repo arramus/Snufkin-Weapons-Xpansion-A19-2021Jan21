@@ -22,7 +22,7 @@
 			<property name="WorkstationIcon" value="ui_game_symbol_workbench" />
 			<property name="OpenSound" value="open_workbench" />
 			<property name="CloseSound" value="close_workbench" />
-			<property name="TakeDelay" value="0"/>
+			<property name="TakeDelay" value="10"/>
 			<property name="Group" value="Basics,Building"/>
 			<property name="SellableToTrader" value="false"/>
 			<property name="FilterTags" value="fdecor,fother,ffurniture"/>
