@@ -33,6 +33,7 @@
 		<item name="Dre X3" prob="0.0025"/> <!--Projectile Weapon-->
 		<item name="oakraven X11" prob="0.0025"/> <!--Projectile Weapon-->
 		<item name="Black Widow" prob="0.0025"/> <!--Projectile Weapon-->
+		<item name="Brainsaw" prob="0.01"/> <!--Melee Weapon-->
 <!--Xpansion Pack Hats/Clothing/Friends-->
 		<item name="Cow Helmet" prob="0.0025"/> <!--Hat Mod-->
 		<item name="Pumpkin Hat" prob="0.0025"/> <!--Hat Mod-->
