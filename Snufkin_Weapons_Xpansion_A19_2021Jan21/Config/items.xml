@@ -3456,6 +3456,7 @@
 
 <item name="Brainsaw">
 	<property name="Tags" value="melee,heavy,tool,motorTool,attStrength,perkMiner69r,perkMotherLode,chainsaw,canHaveCosmetic"/>
+	<property name="ItemTypeIcon" value="star"/>	
 	<property name="DisplayType" value="motorTool"/>
 	<property name="HoldType" value="19"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Chainsaw/chainsaw.fbx"/>
